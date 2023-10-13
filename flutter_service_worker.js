@@ -6,8 +6,8 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "e7fd832753bbec0a94ebc11efde20718",
-"assets/NOTICES": "46cc02b9eaad904b21b827c2db286546",
+"assets/fonts/MaterialIcons-Regular.otf": "0dc509636533c8dcdfc26b30df246434",
+"assets/NOTICES": "89b9164792ae8e8e26425bcb05630b14",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -24,9 +24,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/apple-touch-icon.png": "4faf7c1194716f1008f0f5f6567404fa",
 "icons/favicon-16x16.png": "968c995aa13cfe8c60ffd5eef3c6a398",
 "icons/favicon-32x32.png": "a900dab878be9b30b67cba3f8dc0f5e8",
-"index.html": "d896d8ed51814393b0c7310b1e483f3d",
-"/": "d896d8ed51814393b0c7310b1e483f3d",
-"main.dart.js": "d5b3ac705e16a6469b2c8af6578754b2",
+"index.html": "be2339f9f65f65c4d83a479ae726dcda",
+"/": "be2339f9f65f65c4d83a479ae726dcda",
+"main.dart.js": "948a191958434e63363b36e7dc98e5b5",
 "manifest.json": "304f155097db7c74f8b0ab4f08a7a617",
 "version.json": "caf28729a2613029e59af3648cda022f"};
 // The application shell files that are downloaded before a service worker can
