@@ -61335,7 +61335,7 @@ A.qr.prototype={
 ac(){return new A.GF(B.j)}}
 A.GF.prototype={
 aD(){this.aX()
-this.nT(3,this.a.e)},
+this.nT(20,this.a.e)},
 K(a){return A.Bk(A.Z5(5),new A.a16(this),60,null,null,!0)},
 iW(a,b){var s,r=B.f.b6(b,5),q=B.f.aL(b,5),p=a[r]
 p[q]=!p[q]
@@ -61879,7 +61879,7 @@ p=A
 o=J
 n=B.aJ
 s=3
-return A.H($.mP().a1K("data.json"),$async$$0)
+return A.H($.mP().a1K("assets/data.json"),$async$$0)
 case 3:s=2
 return A.H(n.du(0,b),$async$$0)
 case 2:q.a9U(p.iX(o.b8(b,"noneradifficiledabucare"),0,null))
