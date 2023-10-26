@@ -24,8 +24,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/apple-touch-icon.png": "4faf7c1194716f1008f0f5f6567404fa",
 "icons/favicon-16x16.png": "968c995aa13cfe8c60ffd5eef3c6a398",
 "icons/favicon-32x32.png": "a900dab878be9b30b67cba3f8dc0f5e8",
-"index.html": "55abdc10822ae1f8564f2629a4229618",
-"/": "55abdc10822ae1f8564f2629a4229618",
+"index.html": "7f3a80a276d129c8d3819c3270c934b4",
+"/": "7f3a80a276d129c8d3819c3270c934b4",
 "main.dart.js": "c0cf153a6504e3ac2a06b81570f2edbb",
 "manifest.json": "304f155097db7c74f8b0ab4f08a7a617",
 "version.json": "caf28729a2613029e59af3648cda022f"};
